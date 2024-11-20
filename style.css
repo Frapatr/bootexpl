@@ -1,0 +1,28 @@
+.dflex{
+    display: flex;
+}
+.hero-section {
+        background-image: url(/images/bckg.webp);
+        background-size: cover;
+        position: relative;
+        background-position: center;
+        background-repeat: no-repeat; 
+        height: 680px;
+        color: #d11717;
+        font-size: 24px;
+        text-align: center;
+        padding: 100px;
+ }
+ 
+ .navstl{
+    background-image: url(/images/8792.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+ }
+.card{
+    
+    margin-top: 150px;
+    margin-left: 150px;
+    align-content: space-between;
+}
